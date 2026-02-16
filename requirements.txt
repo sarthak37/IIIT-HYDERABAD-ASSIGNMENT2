@@ -1,0 +1,12 @@
+torch
+transformers>=4.41.0,<5
+datasets
+accelerate
+evaluate
+librosa
+soundfile
+numpy
+pandas
+scikit-learn
+matplotlib
+umap-learn
